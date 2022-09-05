@@ -11,3 +11,9 @@
 .odd.size {
     font-size: 24px;
 }
+
+#big-green {
+    background-color: rgb(52, 233, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
