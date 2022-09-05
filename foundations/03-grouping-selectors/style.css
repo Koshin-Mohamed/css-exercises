@@ -2,3 +2,12 @@
     background-color: black;
     color: white;
 }
+
+#yellow {
+    background-color: yellow;
+}
+
+.both {
+    font-size: 29px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
