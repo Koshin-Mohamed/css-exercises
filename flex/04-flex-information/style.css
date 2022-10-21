@@ -27,3 +27,13 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.contents {
+  display: flex;
+  justify-content: center;
+}
+
+.one, .two, .three, .four {
+  padding: 52px;
+  width: 200px;
+}
