@@ -30,9 +30,9 @@ img {
 .contents {
   display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
 .one, .two, .three, .four {
-  padding: 52px;
   max-width: 200px;
 }
